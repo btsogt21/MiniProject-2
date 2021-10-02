@@ -1,0 +1,5000 @@
+   get         0
+  size
+   add         0      2879
+   get         1
+  size
+remove         0
+  size
+remove         0
+remove         0
+   get         0
+   add         0        56
+   set         0       554
+   set         1      3343
+   get         1
+   get         1
+   set         0      4539
+  size
+   add         1       690
+remove         2
+remove         1
+   set         1      3745
+  size
+   set         1      4316
+remove         0
+remove         0
+remove         0
+   add         0      2180
+  size
+   get         1
+remove         0
+remove         0
+   set         0      4935
+   get         0
+  size
+remove         0
+  size
+  size
+   get         0
+remove         0
+   add         0      3929
+   set         0       272
+   set         1      3314
+   get         1
+   get         0
+   add         0      1938
+   set         1       236
+   add         2       337
+   get         1
+   get         3
+remove         3
+   add         3        73
+   get         0
+  size
+   set        -1      1133
+  size
+remove         4
+  size
+remove         3
+  size
+   get         3
+   get         3
+  size
+   get         3
+remove         1
+  size
+   add         2      4600
+   get         0
+   add         0      1559
+  size
+   get         0
+remove         4
+  size
+   add         2       894
+remove         5
+  size
+   add         1      4006
+   get         5
+   get         0
+   get         1
+   set         2      4443
+   add         7       654
+  size
+   get         5
+remove         5
+   add         1      3782
+remove         4
+   get         6
+   set         4        79
+remove         1
+   add        -1      3561
+   set         1      2509
+   add         2      4146
+  size
+remove         3
+  size
+   set        -1      4654
+   set        -1       450
+   add         1      4665
+remove         6
+remove         5
+   add         3      4388
+   add         6      3056
+   set         2      3644
+remove         6
+   set         6      1956
+  size
+   add         1      1383
+remove         6
+   add         5      4934
+remove         4
+   add         6       699
+   set        -1      2948
+remove         4
+remove         6
+  size
+   add        -1      2552
+   get         0
+remove         3
+   set         6      2777
+remove         5
+   set         3      3541
+  size
+   get         1
+   set         0      3558
+   set         3      1618
+  size
+   get         5
+   get         4
+   set        -1      3360
+   set        -1      4468
+   add         6      1061
+  size
+   get         1
+remove         4
+   add         5      3678
+  size
+remove         4
+   add         4      2584
+   get         4
+   set         5      4787
+remove         1
+  size
+remove        -1
+   add         3      4363
+   add         4      4435
+   get         7
+   get         3
+   set         2      1910
+   set         4      1970
+   get         1
+  size
+   set         5      1579
+   add         1      4900
+   set         2      1615
+remove         5
+   add         4      3167
+   get         2
+remove         6
+   add         7      3407
+   get         4
+   add         0      2303
+remove         0
+   get         6
+  size
+   add         6      3049
+   add         4      2634
+   get         1
+  size
+   set         0      2837
+remove         2
+   add         5      3374
+   add         6      4163
+   get         3
+  size
+   set         8      2519
+  size
+   get        10
+   get         2
+   get        -1
+remove         5
+   get         5
+   add         1      2397
+  size
+   get         7
+remove         6
+  size
+   get         6
+   add         1       803
+remove        11
+   set         9      2427
+   get         0
+remove        -1
+  size
+remove        -2
+   add        -2      3552
+   get         8
+   get         7
+  size
+   get         5
+   get         2
+   get         2
+  size
+   add         4      1762
+   add         0      3676
+   get        -1
+   set         8      3196
+remove         7
+   get         8
+remove         0
+  size
+remove         2
+  size
+   get        10
+  size
+   set         0      1176
+  size
+   set        -1       463
+  size
+   get         5
+   set        10      1681
+  size
+remove        10
+   add         3       629
+  size
+   set         7      1221
+  size
+   set         5      4798
+   set         0      3203
+  size
+remove         6
+remove         4
+remove         0
+   add         6      3615
+  size
+  size
+   set         3      4810
+   get         5
+   add         4      1773
+   get        10
+   add         2      3487
+   get         5
+   get        -2
+  size
+   add         6      2449
+  size
+remove         8
+   set        -1      1423
+   add         8      1678
+  size
+remove         2
+   set         3      2020
+remove         1
+  size
+   add         8      2555
+   get        11
+   add         6       927
+remove         0
+   get         9
+remove         3
+   add         8      3059
+remove         4
+  size
+  size
+   get        10
+  size
+   get         1
+remove         7
+   add         5       500
+   add         4       643
+remove         0
+   set         1      4820
+remove         9
+   add         2      4419
+remove        -1
+   get         3
+   get         1
+  size
+   get         9
+   set         3      1009
+  size
+   get         9
+remove        -2
+  size
+   get         8
+remove        10
+remove         6
+remove        -1
+   set        10      3790
+   add         4      1562
+   get         6
+   get        10
+   add         0       222
+remove         4
+   add         0      3315
+   add         2      2045
+  size
+remove        10
+  size
+   get         6
+   set         7      3952
+  size
+   add         3      3207
+remove         1
+  size
+  size
+   add        12      3935
+   set         5      1213
+   set         6      1334
+   add        12      2149
+remove        11
+  size
+remove        -2
+   set        12       869
+   set         4      2465
+   add         5      2215
+  size
+remove        -1
+   get         4
+   add        10      4795
+   add        -1      3602
+  size
+   set         8       982
+   set        13      3147
+   get         6
+   set        10      4875
+remove        -3
+   add         9      1604
+  size
+   add        12       447
+  size
+   add        12      1013
+   set        -1       686
+   set        11      3417
+   add         0      4840
+   set         8      4324
+remove        -2
+   set         2      2595
+   get        11
+remove         4
+   set         8      3446
+  size
+   set         3       845
+   set        15      2023
+  size
+   add         7      3609
+   add        -1      4334
+   get        19
+  size
+   add        -3      1976
+   set         2      1499
+  size
+   get         1
+  size
+   get        16
+   get         3
+   set         6      3026
+remove         6
+   get         0
+remove        -3
+   add        14       100
+   add        14      1461
+  size
+  size
+   get         6
+  size
+   add        -2      4011
+   add        17      2997
+   set        12      4913
+remove         8
+  size
+remove        11
+   add         3       393
+remove        20
+   add        11      1718
+  size
+   add         5      2474
+   add        10      2146
+   set        15      2451
+  size
+  size
+   get        -3
+   add        18      4309
+   add         3      4361
+  size
+   set         1      3578
+   get        24
+remove        25
+   set         4      3435
+   set        21      4507
+   add        11      1989
+   get        -2
+  size
+remove         4
+  size
+   add         2      2088
+   add        18      4192
+remove         3
+   add        16      2509
+   add        27      4507
+   set         8      4125
+   get         3
+   get         1
+remove        -5
+  size
+   get        26
+  size
+   set        18      1677
+   add        13       656
+  size
+   add        19      4484
+   get         2
+   add         5      4932
+   get        15
+remove        -3
+  size
+   set        33      1094
+   add        28      3192
+   set        21      2505
+  size
+   set         1      4110
+   add         1      3073
+   set        -1      3576
+   add        -3       101
+  size
+   set        -7      3496
+   add        15        94
+   set        34      3655
+remove        -6
+   get        12
+   set        23      4434
+   add        -1       824
+  size
+  size
+   get        35
+   set         5      4217
+   add        34       997
+   get         9
+   add        12      2893
+   get        -7
+  size
+   set        -6      4335
+remove        20
+remove        -2
+remove        36
+  size
+   get        17
+   get         0
+   add         7      4451
+remove         6
+   get         0
+remove        15
+remove        11
+   set        22      2342
+   set         1      4835
+   set        28      3636
+   set        32      2558
+   set        31      3519
+remove        30
+   get        27
+   set        -6      2251
+  size
+  size
+   add         9      1472
+   set        -3      2930
+remove        -2
+   get        -3
+   add        -3      3094
+remove         1
+   get        12
+   get        29
+   get        12
+remove        21
+   set        23      1072
+remove        -5
+  size
+  size
+   add        23      1680
+   get        12
+   set         6       795
+  size
+   get        32
+  size
+   set         1      2821
+   add         2      4818
+  size
+remove        23
+   add        24       843
+   set         3       855
+   get        11
+remove        12
+   get        -3
+  size
+   add        15      1729
+remove        21
+   set         1      4238
+remove        -5
+   set        -2      3599
+   get         3
+   set        29       738
+   add        11      4671
+remove        -3
+  size
+  size
+remove        27
+   add        -2      2760
+   set        -2      3213
+   set        11      3006
+   set        22       686
+remove         6
+   add        29      1113
+  size
+   get         4
+   set        25      4029
+  size
+   get        24
+  size
+  size
+  size
+   add        20      3192
+remove        21
+remove        24
+remove        -1
+   add        21      3486
+remove        24
+   set        19      2886
+   get        26
+  size
+   set        12      2682
+   set        13      3215
+   set         0       166
+remove        19
+   get        29
+  size
+remove        12
+   add        23      1567
+   get         5
+   set         3      1146
+   set        -6      1325
+   get        24
+remove        21
+  size
+   get        11
+  size
+   add         4      1261
+remove        11
+   set        24      2092
+  size
+   set         8      4457
+   set        18       635
+   add        24       251
+   add        16       693
+  size
+  size
+   set        28      4915
+  size
+   set         3       779
+   get         1
+   add        30      2578
+   get        -3
+  size
+   add        29      3482
+   set        14       156
+   get        10
+remove        23
+   set        17      1629
+remove        11
+   set         3        36
+  size
+remove        12
+   get        25
+remove        19
+   get         3
+remove         7
+  size
+   set        14      4372
+   set        18       423
+   set         3      3233
+   add        15      4962
+   get         5
+remove        19
+   set        -2       365
+   add        13      4347
+   add        18       706
+   get        23
+remove         6
+   get        22
+   get         7
+   add         1      1332
+   get        23
+  size
+   get        13
+   set        -1        97
+  size
+   set        21      2383
+  size
+   set        12      3873
+  size
+   get        -4
+   set        22      3209
+   get        10
+   add        24      4167
+remove        11
+remove         3
+   set         9      2842
+   add        14      2472
+  size
+  size
+   get        -4
+  size
+   set        16      4287
+remove        20
+remove        19
+  size
+remove        14
+   add         1      2944
+  size
+   add         5      3153
+   get         0
+   add        16       707
+   get        -1
+remove        23
+   add         0       374
+remove         6
+   set         4      1260
+remove        20
+   add         4      4843
+   set        -5      2100
+   get         6
+remove         6
+   set        -5       720
+  size
+   get         6
+   get        -3
+   set        20      3337
+   set        19      4818
+remove         2
+   get        -4
+remove         4
+remove        16
+   get        15
+remove         9
+   get        19
+   add        14      4667
+   set         4      3918
+remove        -3
+   set        15       658
+   set         0       422
+  size
+   get         0
+remove        12
+   get         5
+   get        13
+remove         0
+  size
+  size
+   set        16      1867
+   add         5      3067
+   get        -1
+   add        16        92
+   add         3       770
+   get        17
+   get        18
+   add         5      3624
+   get         9
+remove         0
+remove        -2
+   get        14
+   add        10      1559
+  size
+   get        23
+   set         3       528
+   add         5      3973
+   add        -3      3327
+remove        11
+   set         2       249
+   add        11      3476
+remove        17
+   get         6
+   get        11
+  size
+remove         4
+  size
+   add         6      1725
+   get        10
+remove        22
+  size
+   set        21      4621
+   set        -3      1411
+remove        16
+  size
+   get        12
+   add        -4      1950
+remove        11
+remove        17
+  size
+remove         0
+   get        13
+remove        19
+  size
+  size
+   add        -1      3589
+   set         9      2128
+   add         7      3507
+   get         1
+   get        15
+   set         4      3174
+  size
+   add         7      2505
+   set        12      1666
+remove        18
+   get        -3
+remove         9
+  size
+   set        -1      1911
+  size
+  size
+   get        15
+   set         7      2562
+  size
+   add         7      2115
+   add        14      2616
+remove        18
+   add         0      1607
+   get        21
+  size
+   get        -1
+remove         3
+   set         0      3748
+   get        18
+   get        12
+   get         8
+  size
+   add        -3      3295
+   add        15       851
+remove         6
+  size
+  size
+  size
+   get        17
+   get        21
+   get        17
+  size
+  size
+  size
+   get         3
+  size
+remove        10
+  size
+  size
+   set         1       764
+remove         0
+   get        -3
+   set        12      4980
+   set        18      3334
+   get         7
+   get         2
+   get        20
+   add         0      4986
+  size
+   set        -1       420
+   set        14      1343
+   add        21      2629
+  size
+   add         3       722
+  size
+remove         0
+remove        15
+   add         4      2293
+   get         2
+   get        10
+   add        14      3354
+   add        10      3767
+   set         4      4474
+   set        23      1094
+   add         7       900
+remove         9
+   add         1       259
+   add        -4      3383
+   set        -2      3689
+   add        -1       600
+  size
+   add        23      2117
+remove         2
+remove        21
+   set        16      3934
+  size
+remove         1
+   add        10      1463
+   set         5      4432
+remove         5
+remove        -2
+  size
+   add         2       216
+   add        10      1408
+   get        -4
+   get         9
+  size
+   set        17       489
+   add         5      1087
+remove        12
+   get        15
+   set         6      1954
+   set        -5      2360
+  size
+   add        13      3334
+remove        15
+  size
+   set        17      4501
+remove         4
+   set        16      4739
+remove        10
+   add        12      1447
+remove         0
+   get         7
+   add        16      3632
+   set         4      3112
+   set        -3      1511
+   set        10      3629
+  size
+remove        10
+   set        18      2740
+remove         0
+  size
+   set        -4      1391
+   set        -2      2897
+   set        -3      2973
+   get         9
+remove        10
+remove         4
+remove        15
+  size
+remove         9
+   add        -3      1773
+   set         9      2718
+   get        17
+   add        16      1318
+remove         8
+remove         3
+  size
+   set        14       595
+remove         6
+   get        12
+remove         2
+  size
+   add         6       136
+   add         7      3997
+   add         8      1554
+   add         3      4281
+   add         7      4063
+remove         1
+   add         7       915
+   get        14
+remove         1
+   add        10       975
+   get         4
+   get         5
+  size
+   set        -1      1291
+  size
+   get         7
+   set        13      4439
+remove         6
+  size
+  size
+  size
+  size
+   add        11       964
+   get        -2
+  size
+   add         4      1495
+   set         0       308
+  size
+   add        19      3140
+   set        19      4568
+   set        15      3038
+  size
+   set        14      3104
+   add         0      4664
+   get         7
+   get         7
+  size
+remove         7
+   get        13
+   set        13      1564
+  size
+   set        18       362
+  size
+   get         5
+remove         2
+  size
+   get         2
+   get         3
+   add        12      3139
+  size
+   set         9       653
+  size
+   add        15      4559
+   set         8       337
+   add        14      2580
+   set         1      3377
+remove        -3
+   get        12
+  size
+   set        -2      2967
+  size
+   add         4      3525
+  size
+  size
+   set        17      2076
+  size
+  size
+   get        -1
+   add        21      3761
+  size
+   set         0      3446
+  size
+   get         9
+   set         5        64
+   get         8
+remove        -4
+remove        10
+remove         9
+   get        -3
+   add         7      1242
+   get        -3
+   add         3       622
+remove         8
+   set         2      1541
+remove        20
+  size
+   get        11
+   add        15      1686
+   get        19
+   get        -2
+   set         6       296
+remove        19
+   add        19      1150
+remove        -4
+   get        -3
+remove        17
+remove         7
+  size
+   set         5       688
+   add         4      4612
+   set         3      1591
+  size
+   set        -4      3766
+   add        11      2789
+   add         9      4462
+   add        10      4053
+remove         8
+   get        12
+   set        24      2869
+   get        20
+   get        24
+   add        -1       437
+  size
+  size
+   get        11
+   get        14
+  size
+   add        25       924
+   add        -3      2709
+   set         2      2098
+   add        -1      3429
+  size
+   add        -4      2022
+   add        -3       879
+remove        11
+remove        22
+   get         7
+  size
+   get        19
+   get        24
+   add        19      4875
+  size
+remove        13
+   set         6      3565
+remove        24
+remove         5
+  size
+  size
+remove        11
+   get         7
+   add        -4       749
+  size
+   get        -3
+   get         2
+   set         7      1866
+   set         0      3394
+   get         4
+  size
+   get        13
+  size
+   set        10       406
+remove        20
+   set        18      3508
+  size
+   get        20
+  size
+   get         8
+   get        -2
+remove        15
+remove        20
+remove        -3
+  size
+   set         9      1007
+remove        20
+   set         8       762
+   get        16
+remove        19
+remove        20
+   add         9       297
+   set         6      3120
+  size
+   add        10       200
+remove        16
+   set         2      3470
+  size
+remove        22
+   set        14       654
+remove        15
+remove        -3
+   get        13
+   add         0      2621
+   get        -1
+   get         2
+remove        -3
+   get         4
+  size
+   add         1       322
+   set        20      3217
+   set        22      4851
+  size
+   add        23      3720
+  size
+   get         0
+   get        -2
+remove        -2
+  size
+   set        -2      3443
+   get         3
+   set        10      2279
+  size
+   get        -2
+remove        -1
+   get        11
+   add        17      3467
+  size
+remove        20
+   add         1      2733
+   add        -5       272
+remove        19
+   set        24      4704
+remove        -4
+   get        17
+   add         5      2622
+   set         1      2906
+   get         8
+   set        21      4271
+  size
+remove        12
+   get         0
+   get         5
+  size
+  size
+   add        -5      4489
+   get        -2
+   set         4      2623
+   set        13       651
+   set         5       195
+   add         5       694
+   set         6      2509
+  size
+   add        16       584
+   get         9
+   set         0      3618
+  size
+   add        20      3242
+  size
+   get        17
+   set         3      4197
+   get        10
+   add        22      1177
+   set         8      3729
+   set        24       987
+   set        13      4906
+   set         6      1887
+remove        27
+   set        12      4234
+remove        25
+   add         2      4151
+   set        17      4033
+remove         1
+   get         7
+remove        30
+remove        14
+   get         9
+remove         9
+remove        18
+   get         1
+   add        24      1203
+remove        17
+remove         6
+   set        -3      3219
+   get        -3
+  size
+   get        16
+  size
+remove        -2
+   add         7      4446
+   add         5       460
+   add        12      1750
+  size
+   set         4       276
+   get        21
+   set         6      4263
+   get        11
+   set        13      1603
+  size
+   set         1      4258
+  size
+   add        -1      1994
+   add        22      4986
+   set        12      2467
+remove        28
+   get        18
+   set        18      1235
+   set         7      4985
+  size
+   get         5
+  size
+  size
+   get        -1
+   add        -2      2842
+   add        12      1169
+   set         5      1933
+   get        29
+   set        17      1079
+   get        16
+   get        14
+   set        15      2192
+   get        17
+   add        14       592
+   set        20      3409
+   get        15
+   add         9      4841
+   get        -3
+  size
+   get        -6
+   add        19       925
+   set        21      2379
+   add        -2       967
+  size
+   set        24      1283
+  size
+remove        33
+   get        -6
+   add        13      3219
+  size
+   set        17      2705
+  size
+  size
+remove        14
+  size
+   set         3      2202
+   set        29      2184
+   add        25      2595
+remove        -5
+   get         5
+   add         7      3276
+remove        11
+  size
+   get        18
+  size
+remove        24
+   set        15      4579
+   get         0
+remove        19
+   add         3      3871
+   add        33      3419
+   get         0
+   set        18      1013
+   get         2
+remove         7
+  size
+  size
+   get        -4
+   set        19      3259
+   set         2      3514
+   set        31      3495
+   add         5      4583
+   add        21      2771
+  size
+   get        15
+   get        -1
+   add        10      3839
+remove         7
+remove        33
+remove        11
+  size
+  size
+   add        24      2743
+   add        -1      2800
+   set        -3      4925
+  size
+   add        -6       233
+   get        10
+   add         1      3201
+   get        35
+remove         1
+   add        -5       110
+   set         3      4784
+   add        28      4528
+remove        12
+  size
+   set         0      4829
+   add         4      4982
+  size
+   get        15
+   get        -5
+   get        31
+   get        -2
+   get        28
+   add        33      2664
+   get        35
+   get        -5
+  size
+   get         8
+remove        -5
+  size
+   get        10
+   add        21      1096
+   get        26
+   add        23      2343
+  size
+remove        34
+remove        19
+remove        -1
+   get         9
+   set        14      1587
+remove         0
+   set         5       396
+remove        -2
+   set        30      4294
+  size
+  size
+   get        28
+   get        26
+   set        -4      4761
+  size
+   get        25
+   add         0      1068
+   set        29       571
+   get        17
+   get        36
+  size
+   get         5
+   set        34       912
+   get        21
+remove         0
+  size
+   set        -1      1133
+  size
+remove         5
+   get        19
+   set        30      2773
+   add        -5      4364
+  size
+   get         0
+remove        24
+remove        23
+remove         4
+   set        30      2189
+   set        16      1907
+   get        16
+remove        -2
+   set        14      3946
+   add         1      3751
+   add         1      1680
+   get        29
+remove         5
+   add         3      3507
+   add        21      3731
+   get         9
+   add        -7      2653
+  size
+   set        25      1960
+  size
+   set        16      4720
+  size
+   add         3      1564
+   add        -4       659
+   add         0      4934
+remove        28
+remove         5
+remove        -4
+   add         2      4468
+   set         6      4864
+   add         9       351
+   get        22
+   add         5       866
+   add         7      2773
+   add        14       790
+  size
+remove        -8
+   add        -2      1712
+   set         0      4349
+   add        29      3524
+   set        34      1326
+  size
+   set        20      2990
+   set        39      2438
+  size
+   set        21       382
+   set         4      3067
+   add        34       596
+  size
+  size
+  size
+   add         1      4953
+remove         5
+   set         5      2538
+  size
+   add         8       659
+   get        33
+  size
+   add        40       107
+  size
+  size
+  size
+   set        41      1041
+   get         8
+   get        30
+   add        35      3125
+  size
+remove        44
+   get        42
+  size
+   get        12
+  size
+   add        -6      2178
+   set        14      1235
+   set        10      3273
+   set        34      2219
+   add        -3      1255
+   get        -1
+   add        33       274
+  size
+  size
+  size
+remove         2
+  size
+   set        10      4478
+remove        13
+   set        43      1624
+remove        28
+   get        26
+remove        -4
+   set        20      2831
+   set         1      4561
+  size
+  size
+   set        27      4431
+   add        39      2513
+remove        25
+remove        16
+remove         1
+remove         5
+   get         8
+   get        -5
+remove        21
+remove        -1
+remove        -2
+   add        21      1401
+   set        32      4828
+   get        32
+   get        18
+   add        12      2971
+  size
+  size
+   get        22
+   add         1      2456
+   add        31      4909
+   get         8
+   get        16
+remove        -3
+   add        34      1870
+   set        -1      4709
+  size
+  size
+  size
+   set        24      4792
+  size
+   get         8
+   set        32      2647
+   get        20
+remove         5
+   get        36
+   get        21
+remove         8
+   set        25      3751
+  size
+remove         4
+  size
+remove         5
+   set         6      4878
+   set        22       257
+   set        26      2537
+   set        17      1684
+remove        33
+   add        -5      1713
+  size
+   add        24      2503
+remove        32
+   get         8
+  size
+   get        -2
+remove        20
+   get        21
+   get        30
+remove         9
+remove        22
+   add        12      1475
+   set        17      1422
+   add        29      4239
+   get        11
+remove         2
+remove        35
+remove         8
+   set        -5      1797
+   add        16      4828
+   get        20
+remove        30
+  size
+  size
+   set        26      4991
+  size
+  size
+   get         7
+remove        12
+   get         5
+   get         0
+   add        32       264
+   add        -2       354
+   set        13      1284
+  size
+   get        -1
+   set         3      4175
+   add        30      1117
+remove        33
+  size
+remove         1
+   add        25       409
+   set        21      1302
+remove        -6
+remove        29
+remove        34
+   add        20      1085
+  size
+remove         0
+remove        13
+   get        -2
+remove         1
+  size
+   get        11
+remove         3
+   set        23      2744
+   add         9      4350
+   add        18      1067
+  size
+remove        -4
+   get         6
+  size
+   add        22      4865
+   add        19      4837
+   get        14
+   add        10      4386
+   add        23      1351
+  size
+  size
+   set         8      2551
+   get        36
+   get        40
+   add        12       320
+   get        14
+   set        -5      4280
+   get         1
+remove        39
+   get        -1
+   set        -4      4249
+   add        33      4914
+   get        21
+   set        -2      3246
+   set        26       539
+   get        10
+   add        -7      2211
+   set        -6      3117
+remove        -8
+   get        16
+remove         1
+   add        -5      4347
+  size
+remove        33
+remove        35
+  size
+remove        -8
+remove        -6
+remove         0
+remove         0
+  size
+   add        28      1717
+   set         1      3875
+   get        34
+remove         7
+   add         2      4732
+   set        -1        77
+remove         3
+  size
+remove        30
+   add         9       971
+   get        35
+remove         6
+   add        26      2986
+   get         6
+remove         9
+  size
+  size
+   add         6      1460
+   set        -6       637
+  size
+remove        31
+   get        17
+   add        24       878
+   get        -6
+remove        10
+  size
+   add        24      2406
+   add        -8      4409
+  size
+remove        14
+remove        37
+   set        21      4604
+   set        -1      3362
+   add        22        21
+  size
+remove        22
+remove        -3
+   set         5      1413
+  size
+   set        -7       852
+   add        27      3772
+  size
+  size
+  size
+  size
+   set         0      1105
+remove        10
+remove         0
+   get         2
+  size
+   set        28      2086
+remove        -2
+   set        16      4694
+  size
+   set        16      4841
+   add        15      2611
+   get        37
+remove        -2
+   add        28      2464
+   get        30
+   get        14
+   set         3      1196
+remove        -3
+   get        -1
+  size
+   add        14      1626
+   set        24      3728
+   add        -5      1380
+  size
+   add        -4      4293
+   set        40      3313
+remove        18
+remove         5
+  size
+   get        16
+   get        13
+   add        -6      3453
+   set        -7      4392
+   get         3
+remove        30
+   set        35      3808
+   add         1      3071
+   set        22      3317
+   get         4
+  size
+   set        21       681
+  size
+   get        -1
+   get         9
+   add        35      4171
+remove        -5
+remove        19
+   add         9      4972
+remove         1
+   add        37      1250
+   set        37      2098
+  size
+remove        24
+  size
+remove        14
+   get        32
+   get         5
+remove        -4
+remove        19
+   get        16
+   add        29      2951
+   get        19
+remove         6
+   get        27
+   set        22        84
+  size
+   get        16
+   add         9       844
+  size
+   add        23       730
+  size
+  size
+   set        17       977
+   get        20
+remove        20
+   set         0      4484
+  size
+   set        33      3830
+remove        25
+   add        32      2267
+remove        19
+   add         4      2886
+   add        29      2388
+remove        24
+   get         2
+   set        -3      2221
+   set         2      2781
+   set        -1      3319
+remove         6
+remove         0
+  size
+   get        18
+   add         4      4401
+   add         5      4276
+  size
+   add        21      3187
+remove        21
+   get        16
+  size
+   add        -2       736
+   get         4
+  size
+   add        29       491
+   set        -4       107
+   add        -5      4271
+   get        25
+   add         5      3039
+remove        28
+remove         5
+   add         6      1495
+  size
+  size
+remove         1
+remove         5
+  size
+   set        -5      4033
+   add        11      4907
+   add        12      3702
+   add        15      2963
+   add        31      2252
+   add        17      3504
+   set        20       174
+   get         2
+   set        22      3056
+   set        25      3640
+remove        25
+   get        11
+   add        32      3528
+remove        25
+   get        14
+   add        28      4702
+   get         9
+  size
+   get         7
+   add        29      1440
+   get        14
+remove        28
+remove        24
+   add        24      2073
+remove        26
+   add        31       569
+remove        13
+   set        -2      3154
+  size
+remove         3
+   add        14      4934
+remove        -2
+   add         2      4055
+   set        -6      1692
+remove        11
+   get        -2
+   set         2      2171
+remove         3
+   set        29      2441
+   get         5
+   get        -1
+  size
+   set        -6      3337
+   get         7
+  size
+remove         4
+   set        19      1113
+   add        -2      3087
+   add        18      4748
+   set        -1       162
+   add        22      3766
+   set        30      3823
+   add        21       148
+   add        12      2269
+   set        28      2896
+   add         9      1079
+   set         7       381
+  size
+   get        17
+   set        13       477
+  size
+   set        23      4813
+remove         4
+   add        17      2411
+   add        -5      1353
+   get        -5
+   get         2
+remove        31
+   set         4       117
+   add        32      2606
+   get        12
+   add        30      3814
+   add        24       191
+   set        20      3853
+   get         8
+   get        14
+  size
+remove        18
+   get         8
+   set        21       588
+   set        21       456
+   set         2       576
+   add         3       486
+   add        29      4820
+remove        29
+   get        17
+remove         7
+remove        22
+   set        -1       372
+remove        -1
+  size
+  size
+remove        22
+remove        18
+remove         2
+   add        22       542
+   set        15      4900
+   add        17      1766
+   add        -3      2528
+   add         1      4303
+remove        10
+   add         3      3221
+  size
+   get        33
+remove         0
+   add        26      4531
+   add        18      2075
+   set        -4       519
+   set        -7      2114
+  size
+   get        -5
+   set        35      1785
+   get         8
+   set        26      3381
+   get        21
+remove         2
+   add        14      4107
+   get        10
+   get         9
+   set        18      1321
+remove         8
+   set        16      4034
+   get        28
+   get        -1
+   add        12      1117
+  size
+remove        -2
+   add        -3      2884
+   add         3      1888
+  size
+remove        14
+   add         5      3188
+   get        -3
+   add        11      4468
+  size
+   get        15
+   set        20      3134
+   set        10      3165
+  size
+remove        11
+   add        -3      2702
+   set        22      2812
+   add         9      3864
+   add        13      4981
+   add         7      4399
+   set        17      4546
+   get         6
+  size
+   get        22
+remove         0
+remove         8
+   set        27      1826
+  size
+   add        27      1769
+  size
+   get        18
+remove        13
+   set        26      3451
+   set        34      2609
+   add         5      2769
+   add        16      2488
+   get        18
+   add        19      4391
+  size
+   get        39
+  size
+   get         3
+remove        24
+  size
+   set        18      3560
+  size
+remove        36
+   get        -6
+   set        25       284
+   get        14
+   add        11      2517
+remove         9
+remove        39
+   add        16      2595
+   set         7       327
+   set        20      4868
+remove        24
+  size
+remove        24
+   add        25      3403
+   get        33
+   get        38
+   get        39
+   set        38      1628
+  size
+  size
+   add        17      2517
+   add        21      3059
+   add         5      3915
+   set         5       435
+   add         2      4979
+   get        11
+remove        45
+   get        30
+   add         6      1452
+  size
+remove        11
+remove        -7
+  size
+  size
+   get        12
+remove        37
+   get        29
+   add        -1      1787
+   get         8
+   get         8
+   add        23      3218
+   set        27       286
+   add        19      3857
+   get        26
+   add         7      3054
+   add        -4      3407
+  size
+  size
+   set        -9      3088
+   set         8      4016
+  size
+   add        37       767
+  size
+  size
+  size
+remove        21
+   get         4
+   add        -5       861
+  size
+   set        18      2786
+   get         0
+   get        10
+  size
+  size
+  size
+   add         0      1714
+   set         2      2161
+remove        -4
+   set        32      1104
+  size
+   get        25
+remove        11
+remove         0
+   set        44      1188
+remove         9
+   get         5
+   add         9      3431
+   get         8
+   get        39
+   set        -2      3795
+remove        45
+   set        46       263
+   get        44
+   set        29      1352
+   set        40      4627
+  size
+remove        42
+remove        21
+   get         5
+  size
+   add        44      4229
+  size
+  size
+   get        19
+  size
+   add         4      3357
+   set        35      2626
+   get        37
+remove        14
+   get        38
+   set        25      3304
+   add        10      2296
+   add        15       509
+   add         3       907
+  size
+   get        -8
+   get        17
+   set         7      1672
+   set        -3       467
+   add        14      3816
+   get        36
+remove         8
+  size
+remove        13
+   add         1      4906
+remove        21
+   add        10      3337
+   set        29      1996
+   add        20      3973
+   add        -6      4419
+   get        20
+  size
+   get        38
+remove        34
+  size
+   get        -9
+   get        -6
+remove         4
+remove        31
+   set        -2      3846
+   set         5      2215
+   add        30      1385
+   add         4      1419
+   set        13      3495
+   add        14      2791
+   add        42      2494
+   get        35
+  size
+   get        16
+   add        11      1332
+   add        30      2163
+   add        30       784
+   get        -6
+   set        15      3528
+remove        27
+   get        -8
+   add        35      1109
+  size
+  size
+remove        53
+   add        31      2639
+   set        45      1147
+   set        32      2722
+   get        42
+  size
+remove        16
+  size
+   add        19      3203
+   set         1      2987
+  size
+remove        28
+   add        29      4112
+remove        50
+   get        51
+   add        43      1611
+   set        45      4918
+   add        -5      3717
+   add        19       537
+   set        46      4762
+   add        37      3768
+remove        52
+   add        45      1870
+   get        60
+   add         1      1640
+remove        30
+   get        -4
+   set        -1       565
+   set        39      1366
+   add        28      3146
+  size
+   set        -4       639
+  size
+   set        51      1657
+remove        36
+   set        -2      4989
+   add        40      2650
+remove         1
+remove        24
+   set        42      2297
+   set        -5      3283
+remove        48
+  size
+   get        25
+   add        49      2248
+   get        39
+   set        31      2679
+remove        25
+   add        13      3649
+  size
+   get        29
+remove       -11
+  size
+remove        15
+remove        40
+   add        43      3423
+   set         9      1672
+   get        10
+remove        32
+   get        49
+  size
+   add        25      3840
+remove        36
+  size
+   set        -3      2009
+   get        17
+  size
+   get        -8
+   add         3      1378
+   get        55
+   add        32      3311
+   set        19      3150
+  size
+   get        45
+  size
+   add        33       334
+remove        12
+remove         7
+  size
+  size
+   get        -4
+remove         6
+   add        26      2414
+   set        27      1312
+remove        57
+   get        57
+   add        34      1602
+   get        -3
+  size
+  size
+   set        20       439
+   add        55      3643
+remove        40
+   get        -3
+  size
+   get         8
+   set         2      2329
+   set        32       384
+remove        35
+   set        39      4755
+   add         0      4993
+   get        52
+   get         2
+  size
+   add        47      2332
+   get         3
+  size
+   get        57
+   add        -4      1793
+  size
+   get        48
+  size
+remove        31
+  size
+remove        46
+  size
+remove        44
+   add        17      2519
+  size
+  size
+   get        14
+   get        29
+  size
+   add        39      4994
+remove        13
+   add         3      2967
+   set        17      2995
+   add        15      1780
+   add         2      4843
+   get        30
+   add        33      3804
+   set        32      3317
+remove        57
+   add       -12       990
+remove        56
+   get        -4
+remove        20
+  size
+   set        30      4025
+   get        47
+   add        -1        18
+   set        60      3196
+  size
+remove        47
+  size
+   add        33      3350
+   add         5       823
+   add        37       168
+   set        45      1485
+   get        16
+   set       -12      3197
+   get         1
+   add       -10      4881
+   add        28      4167
+   add        21      4903
+  size
+   get        22
+   add       -10        35
+remove         9
+remove        55
+   get        59
+remove        -8
+   get         6
+   add        37      4768
+   set         4      2905
+  size
+   get         4
+   get        22
+  size
+   get        10
+  size
+   add        -1      4597
+   add        47      4457
+remove        67
+   add        25       940
+   add        -4      2701
+   add        25      1232
+   get        62
+   get        19
+  size
+   get       -13
+remove        37
+   add        30      4705
+  size
+remove        10
+   add        66      1688
+  size
+   add        49       145
+remove        47
+remove        51
+remove        33
+  size
+   set        48      3686
+   get        26
+   set        -4      1001
+   add        46      4092
+   add        29      1658
+   add        25      1173
+   set        66      4943
+   add        26       121
+  size
+   get        71
+   add        62      4042
+   set        -8      4518
+   add        55      4660
+   get        -6
+  size
+   set        36       368
+   get        -4
+  size
+remove        70
+   set        -2      2376
+  size
+   set        60      2400
+  size
+   set        27      4630
+remove        31
+   get        46
+remove        65
+remove        33
+   set        39      4569
+remove        62
+   get        30
+   add        61       552
+   set        51      3731
+  size
+   set       -12       179
+remove        53
+  size
+   add        38      2863
+   set        34       362
+remove        60
+   set        60      3994
+   set        33      4919
+   add        -2      3077
+remove        34
+  size
+   add        45      1474
+remove        62
+  size
+   add        35      3393
+   add        27      3685
+   get         2
+remove        33
+   get       -14
+   get        12
+   add         9      2123
+   set        54      1517
+  size
+   set         2      2944
+   set        57      1697
+   get         3
+remove        22
+  size
+   set         8      2968
+   add        -5      1351
+  size
+  size
+  size
+  size
+   add        -6       286
+   set        33      4569
+   get        47
+remove        39
+   set       -12      2344
+   get        32
+   get        -5
+remove        28
+remove        -8
+remove         1
+   add         8      1161
+   add        52      1970
+remove        41
+remove        38
+   get        38
+   get        18
+   set        -6      2084
+   set        52       770
+remove        35
+remove        19
+  size
+   add        51        55
+   set        49      4719
+   add        23      2464
+   get        -7
+   get        32
+  size
+   add        65      1420
+remove        41
+   add        37      1586
+   get        -4
+   get        37
+remove        57
+   add        61      3860
+   set       -13      2334
+   set        36      2427
+   add        23      1344
+   get        25
+   set        21       919
+   get        65
+remove        49
+   set        66      1238
+remove        58
+   set        -2      4903
+   set         3      4741
+   set        18      4007
+remove        22
+   set        20      3385
+  size
+   set        65      2072
+  size
+   add        -3       245
+  size
+   set        24       851
+   get        52
+  size
+   get        25
+  size
+  size
+   set        57      3635
+remove         1
+   set        16      4267
+  size
+   add         1      4416
+   set        56      3228
+remove       -13
+  size
+   get        -1
+   add        13      4986
+remove        35
+  size
+   add        57       505
+   get         0
+   add        65      4061
+   get        28
+remove        13
+   set        58        64
+   get        53
+   get        -9
+remove        53
+   set        36      1312
+  size
+   add        -4       563
+   get        57
+  size
+  size
+  size
+   set        -7      4622
+   add         5      3184
+remove        10
+remove        64
+   add         5      1865
+   get        35
+   set        -5       137
+remove        46
+   set        -3      4127
+  size
+   add         5       203
+   get        42
+remove        29
+  size
+   set        29      4502
+remove        29
+   add        36      2157
+remove        59
+   set         4      2467
+  size
+   set        51      4617
+remove       -12
+   set        53      3488
+   get       -11
+   add        13      1288
+   add        59      4709
+  size
+  size
+   add        48      1808
+   get        32
+  size
+   set        14       656
+  size
+remove        46
+  size
+remove        49
+   set        -2      4953
+   add        54      4906
+  size
+  size
+   add       -10       561
+  size
+  size
+remove        51
+   get         0
+   set        39       654
+  size
+   add        37       415
+  size
+   get        33
+   add        35      3521
+remove        48
+  size
+   get        54
+  size
+   set        17      1620
+   set        22      2679
+  size
+  size
+   set       -11      2348
+   set        53      1117
+  size
+   add         3      4678
+remove        65
+remove         3
+remove         6
+   add        41      2413
+remove        53
+remove        50
+   set        18       598
+   add         2      4347
+   get        30
+   get        65
+  size
+remove        44
+   add        -9        97
+   set        -7       587
+remove        51
+  size
+  size
+remove         9
+   add         6      1799
+   get        31
+   get        17
+  size
+remove         6
+   get        56
+  size
+   add        -7      3709
+  size
+remove        40
+  size
+remove        53
+  size
+  size
+   add        40      3359
+   add        29      1606
+   get        49
+remove        14
+   get         6
+   get        -2
+   get        59
+   get        44
+  size
+   set        53      3028
+   add        60      3724
+   add        48      4797
+   set        -3      2865
+   add         1      2718
+   add        18      1591
+   set        23      4491
+   set        30       152
+   add        39      1457
+remove        25
+   set        11      1983
+   set        -2      2083
+  size
+   add        -2      1000
+   get        -7
+   set       -11      1906
+remove        14
+remove        13
+   add        25      1882
+remove        -4
+   get         5
+   add        59       882
+   get        42
+remove        14
+   get        36
+   get        59
+remove        63
+remove        49
+remove        11
+  size
+remove        53
+   get        58
+remove        45
+  size
+   set        29       561
+  size
+remove         2
+   get        19
+   set         2       133
+   set        24      4543
+   get        40
+  size
+  size
+   get         3
+   set        -1      1528
+  size
+remove        -6
+   add        42      4346
+   get         1
+  size
+   add        -3      1763
+   set        25        96
+remove        -4
+   add        39      2937
+   add        21        86
+   get        61
+   add       -12       698
+   add       -12       529
+   get        17
+   set         8       719
+   set        13       381
+   get        -1
+   add        45      3661
+   add        48      3630
+   add        -1      1844
+  size
+remove        52
+   add       -13      1101
+   get       -10
+   get        52
+   get        51
+   add        62      4776
+   get        54
+remove        -4
+   get        11
+remove        42
+  size
+   set        22      3069
+remove         5
+   set        58      3021
+remove        43
+   get        40
+   get        41
+   add        52      3626
+  size
+   get        46
+   add        22      1387
+   get       -10
+   set        47      3042
+   set        26        24
+remove        21
+   add        59       242
+   set        22      4573
+  size
+   get        26
+  size
+remove       -11
+   add        -6      1937
+   add         5      1994
+   set         2       526
+   set        23       240
+  size
+  size
+remove        29
+   add        35      2771
+remove        29
+   get        -3
+   get        17
+   add        20      4715
+   add        57      1343
+  size
+remove        -2
+   add         4      3702
+   set        12      1120
+remove         9
+   set        28      3759
+  size
+remove        23
+  size
+  size
+remove         9
+remove        54
+   set        -2      2123
+   get        35
+   get         0
+remove        23
+   set         5      1978
+  size
+   add        -5      3861
+  size
+remove        -3
+remove         6
+   get        49
+   set        -2      2050
+remove        26
+   get        38
+  size
+   get        24
+   add        47      2743
+   set        24      4523
+   add        -6      3569
+   set        -2      2306
+   add        29      4605
+   get        52
+   set        16        51
+  size
+remove        -8
+   add        25       285
+   get        -1
+   set        30      1283
+  size
+   set         5      3015
+   get        33
+  size
+  size
+   get        36
+  size
+remove        28
+   add        22      1158
+  size
+   set         1      1798
+remove        18
+remove        53
+   set        41      1113
+   add        49      2490
+remove        -6
+   add        23       529
+   get        54
+   get        31
+   get        31
+   get        25
+remove        25
+   add        -1      3284
+  size
+   add        20      1256
+   get        56
+   set        32      1127
+remove        43
+remove        12
+  size
+   get        42
+  size
+   get         6
+  size
+  size
+   get         7
+  size
+  size
+   set        -4        66
+   add        56      1537
+   get        51
+   set        17      1063
+   set        31      1559
+   add         5        73
+  size
+   set        30       464
+   get        29
+   get         2
+remove         8
+   add        15      4642
+remove        11
+   get        31
+   get        -8
+remove        -1
+   get       -11
+   get        55
+   add        29      2487
+   add         9      1278
+   set        -3       873
+   get        -8
+remove        -9
+  size
+   add         8      1573
+   get         6
+   set        46      2969
+   set        37      2027
+   get         4
+   set        21      2438
+   set        50      3886
+remove        17
+   get        23
+remove        -4
+  size
+   add         7      4837
+  size
+   add        11      3859
+remove        26
+  size
+   add        59      4646
+  size
+   get         9
+  size
+   get         3
+remove        11
+   add        -8      2199
+  size
+  size
+   add         9      3029
+   add        45      4514
+  size
+   get        14
+remove        37
+  size
+   get        19
+   add        55      1871
+  size
+   add        33       931
+   get        27
+   add        36      1599
+   get        54
+remove        34
+   get        61
+   set        22      4771
+  size
+  size
+   set        28      1964
+  size
+   set        16       753
+   get        55
+   set        35      4694
+remove         7
+   add        16      2771
+   get        34
+remove        13
+   get        -4
+  size
+  size
+   set        -8      3526
+remove        -5
+   get        10
+  size
+   get        -2
+   set        27      2008
+   set        32      2007
+  size
+   add        45      4330
+remove        58
+   add        47      4574
+  size
+   get         3
+remove        51
+   set         9      1674
+   set        34       311
+   set        -5      2183
+   set        42      4089
+   add        29       990
+  size
+   add        21      3590
+   get        19
+  size
+   set        27      3993
+remove       -13
+   add        -2      4313
+  size
+remove        31
+   add        -2      2994
+   get        38
+   add        59      3037
+   get        47
+   get        44
+   add        43      1958
+  size
+remove        49
+   set        51      3732
+remove         7
+remove        62
+  size
+   set         3      2781
+   get        58
+   add        52      3663
+remove        30
+   get        58
+   get        11
+  size
+remove        56
+remove        59
+   set        58       197
+   add         7      4931
+   add        44      4231
+remove        17
+remove        38
+remove        45
+remove        45
+remove        35
+   set        36       629
+remove        36
+  size
+remove        49
+  size
+remove         8
+   set        -6      2210
+remove        45
+   get        28
+   set        -8      3248
+   get        44
+  size
+   add       -10      2517
+  size
+remove        -2
+remove         7
+   set        35      2113
+   get        28
+   add        38      3052
+   set        17      2320
+   set        22       892
+  size
+   add        41       828
+   get        -5
+   set        15      1641
+   add        54      1655
+   set        43      3911
+   get        56
+   get        13
+remove        17
+   set         9      1546
+   set        -3      2016
+   add        41      2808
+   set        43      2050
+remove        38
+remove        35
+   get        -2
+remove        35
+   add        47      1229
+   set        -5      2345
+  size
+   get        27
+remove        32
+   add        -7       807
+  size
+remove        -4
+  size
+   get        26
+  size
+   set        -9      4574
+   add        21      3814
+   add        11       199
+   get        15
+   set        44       917
+   add        23      1343
+   get        42
+   get        21
+  size
+remove        12
+   add        20        79
+remove        26
+   set        23      4082
+   set         1       731
+  size
+remove        17
+  size
+   add        35      4230
+  size
+   get        50
+   add        10       839
+  size
+   set        12      2750
+   set        36      1458
+   add        54      3801
+remove        -2
+  size
+   get        51
+   set        -5      4711
+  size
+   add        -7      3895
+   set        23      3202
+remove       -11
+  size
+remove        47
+   set         3      3340
+   set        23      1526
+   add        12      2610
+   get        38
+   get        53
+   add        17      1092
+remove        21
+remove        -5
+remove        26
+   set        -3      2101
+remove        24
+  size
+   add        35       940
+  size
+  size
+  size
+   set        37       634
+   set        17      1706
+remove        10
+remove        42
+   get        12
+   set        -8       117
+  size
+   get        -1
+remove        -3
+  size
+remove        51
+   get        32
+   set        -6      2947
+   set        24      3208
+  size
+  size
+remove        -2
+  size
+   add        29      3999
+   add        51      1488
+   get        53
+   get       -10
+   add         7       801
+  size
+   add        50      2881
+remove        33
+   set        16      3700
+   get        22
+remove        37
+   add        11        68
+   set        52      1301
+   set        49       597
+  size
+  size
+   set        -3      4616
+   set        42       925
+   add         9      2535
+  size
+   get         6
+   add        51      2837
+remove        25
+   get        -9
+   set        -1      1592
+   add        36      1888
+   get        20
+   set        -8      1302
+  size
+   get         4
+   add         4      4127
+  size
+   get         3
+  size
+   set        32      3237
+   set        30      1079
+  size
+   set        26      4581
+   get         4
+  size
+   add        51      2636
+   add        54      2832
+   add       -10       164
+  size
+   set        20      2025
+remove        48
+remove        43
+   get        35
+   set        14      1731
+remove         3
+  size
+remove        45
+   set         0      3494
+   set        21      3653
+  size
+  size
+   set         2      2507
+   get        33
+   get        22
+   set        28      3772
+   get        36
+  size
+remove        20
+remove         9
+   get        45
+   get        45
+   set        -8      1352
+   get         6
+remove        44
+   get        46
+   add        18      4175
+remove        -7
+  size
+   get        30
+   add        35      1127
+   set        24       906
+   set        47      4876
+remove        34
+   get        31
+   set        31      3646
+   set        39      2708
+remove         4
+   set        30      2287
+remove        -7
+   set        42       281
+  size
+remove        12
+  size
+   set        -5      3544
+  size
+   set        -3       581
+   get        10
+  size
+   add         5      1748
+   get        -7
+   get        37
+   set        -5      2715
+remove         9
+   add        32      1867
+   set        -4      2291
+  size
+  size
+   add        20      1281
+remove        17
+   get        -6
+   get        22
+remove        -5
+remove         1
+   get        46
+remove        43
+  size
+   set        -5      1194
+   add        29      4970
+   get        -9
+   set        22      3492
+   set         2      4777
+  size
+   add        24       268
+   set        51      2317
+  size
+   set        47      2990
+   get        21
+   get        37
+   set         8       864
+   set        40      3645
+   get        30
+   add        44      2302
+   get        47
+   set        51      4799
+   add        37      1229
+   get         5
+  size
+remove        14
+   set        -8      1610
+   add        35      4334
+  size
+   set        31      2077
+   add        53      1188
+  size
+remove        35
+  size
+   set         1      2305
+   add         7      1411
+   get        16
+   add        41      3353
+  size
+   add        21      2288
+remove        23
+remove        43
+   add        39      3431
+  size
+   set        -1       943
+remove         7
+   add        22      2120
+   set        -7      1246
+   add        19       318
+   set        20       183
+   set        31      4814
+   add        24        78
+remove        13
+   set        54      1599
+   add       -11      1937
+   set        -6      2441
+   set        39      2334
+   add        43      4069
+   get        55
+   get        12
+   set        -8      3159
+remove        22
+   set        -3      1190
+remove         8
+   add        17       535
+   set        17      3886
+   add         9       655
+   get        41
+  size
+   set        27       474
+   set        29      1229
+   add        10      3614
+   get         7
+   set        38      2191
+   set        37      4084
+remove        -8
+   get        24
+   add        13      2256
+   get         9
+   get        -6
+   get        -4
+   set        26      1136
+remove        -3
+   set        39      1804
+   set        53      1467
+   add        15      3854
+   set         9      2564
+   add        39       932
+   add        34       872
+   get        43
+   add         8      3819
+   add         2      4009
+   add        54       820
+remove        62
+remove        64
+   set        33      4805
+remove        33
+remove        33
+   get        24
+   set        52      2592
+  size
+remove        43
+  size
+  size
+  size
+remove        55
+   add         7      4091
+   set        -7      3609
+   add        39      3910
+   get        22
+   add         3      1647
+   get         8
+   add         3       385
+   get        46
+   set        30      1403
+  size
+   add        62      4507
+   add         9      1370
+remove        66
+   add        46      2730
+   set        34       584
+   get        34
+  size
+  size
+   get        30
+remove        44
+  size
+remove        17
+   add         9      2350
+   add         5      2947
+remove        52
+   add        15      4965
+   set        14      4710
+   add       -11      1274
+   add         8      4893
+   get        59
+  size
+   get       -12
+   add        -3      3237
+remove        24
+remove        49
+remove        27
+   add        19       199
+  size
+   set        -2      4510
+   set       -11      1156
+   set        40       667
+   add        53      2707
+  size
+   add        22      4209
+remove        49
+   set        45      3415
+  size
+  size
+   add        17       696
+   get        44
+remove        31
+remove        65
+   add        39      3396
+   add        58      4846
+   get        42
+remove        54
+   get        38
+   add        67      1559
+   get        25
+  size
+   add        57      3137
+   set         3       644
+  size
+remove        53
+   set        48       200
+  size
+  size
+  size
+   set         2      4197
+  size
+   get        -7
+   set        60      2170
+   set        50       515
+   set        54      4836
+  size
+   add        31      3661
+   get         7
+  size
+remove        34
+   add        21      4132
+   set         8      1822
+  size
+   set        51      4081
+   set         8      2386
+   set         1      2095
+remove        -6
+   set        23      3380
+   add        49      3680
+remove        42
+   get        60
+   add        17      4931
+   set        37      1684
+remove        14
+   add        43      3614
+   get        47
+remove        71
+   get        67
+remove         8
+remove        43
+   set       -10      3430
+remove        38
+remove        48
+   set         5      3608
+   get        41
+   add        13      2761
+   add        29       169
+   add        16      4485
+   get        -1
+remove        17
+   get        -6
+   add        27      4937
+  size
+remove        62
+   set        31       559
+   set         7      2014
+  size
+   set        50      3830
+remove         4
+   get        -4
+   get        46
+   add        26      3940
+remove        -3
+   set        54      3636
+   set        16      1920
+remove        54
+  size
+  size
+   get        31
+   add        56      2818
+   set        -1      3279
+remove        40
+   get        32
+  size
+  size
+remove        -7
+   add       -11      1250
+   set        57      3493
+  size
+   get        67
+remove        45
+   add        42        81
+remove       -11
+remove        25
+  size
+   set        27      1280
+   get        43
+   get        48
+   get        30
+   add        41      4440
+remove        -9
+remove        53
+  size
+  size
+remove        34
+   get        52
+  size
+   set         4      3820
+   add        57      3308
+   get        55
+   get        25
+   get       -13
+   add         1      1406
+remove        66
+remove        48
+   get        53
+remove        48
+   add        30      4228
+   set         1      1178
+   add       -11       829
+   set       -13      2552
+remove         4
+   set        -5      4050
+   get        52
+  size
+  size
+  size
+   set        37      4887
+   get        56
+  size
+  size
+   get        44
+   add        14      1094
+   set        34      4760
+   get        14
+   set        48      3305
+  size
+   get         5
+   set        32      4001
+   get        58
+remove        -7
+   set        -8      2247
+remove        23
+remove        10
+   set        62      1389
+   get         5
+  size
+remove        12
+   get        40
+   set        -4      3572
+   get        22
+remove         7
+   add        12      4961
+remove        30
+remove         9
+  size
+  size
+   set        23       657
+   get        28
+  size
+   get        -7
+   set        18      3998
+  size
+   add        17      3419
+   set         1      3215
+   set        49      2148
+  size
+   add        48      4979
+  size
+   get        29
+   get        14
+remove        32
+  size
+   add        48       444
+   set        36      2755
+   set        52      3255
+   set        30      4469
+   get        -3
+  size
+   add         8      4238
+  size
+remove        14
+  size
+remove        57
+  size
+remove        38
+   add        34       905
+   set        28      4570
+  size
+  size
+   get        43
+remove        44
+   add        27       118
+remove         3
+remove        46
+   set        50      3828
+  size
+   get        40
+   get        48
+   add       -11      1017
+  size
+   add        15      1483
+  size
+   add        17      2358
+   set        -4      1069
+   set        49      4024
+   set        21      1457
+remove         5
+   set         3      2329
+   add        40      3801
+   add        28      3276
+   add        23      3504
+remove        49
+remove        25
+   set        10      3312
+   set        54      3333
+   add        50      1099
+   add        24      4261
+   get        26
+  size
+   add        31      3951
+   set         6      3858
+remove        22
+   set        47      4694
+   set        26      3878
+   set        19      2065
+   add        31      3210
+   get        20
+   add         6       993
+   add        43      4569
+   set        55       316
+   get        39
+remove        38
+   get        15
+  size
+   get        10
+   get        47
+   add        -8      3761
+   set        58      2929
+   get        11
+  size
+   add        45       549
+   get         8
+   add        45       988
+remove       -12
+   get        -6
+remove        62
+   add        53      3983
+   set        63      3279
+  size
+   add        -8      4652
+   add         8      2432
+remove        -5
+   add        48       254
+   set        64      4099
+  size
+remove        29
+   add        66      4814
+   add        70       245
+   get        44
+   add        17      3627
+   get        18
+remove         1
+  size
+remove         4
+  size
+  size
+remove        44
+remove        51
+   set         5      4185
+   get        12
+   set         6      2916
+remove        15
+remove        24
+   get        -5
+  size
+  size
+  size
+  size
+remove        48
+   set        -5       411
+  size
+  size
+   set       -11      3326
+remove        17
+   add        30      3341
+   get        16
+  size
+  size
+   set       -10      2187
+   add         2      2192
+   add        55       930
+   get        20
+   get        48
+   set        63      4548
+   get        25
+remove        30
+  size
+   set         4      3679
+remove         2
+   set        34       456
+   get        38
+   set         0       420
+   add        37      3887
+remove        33
+   set        51      1607
+   add        28       848
+   get        40
+remove       -12
+   set         2      3940
+  size
+  size
+   set        42      4353
+  size
+   add        44      1731
+   set       -11      1839
+   get         8
+   set        12       237
+   get        -9
+   set        17      1529
+  size
+   get        54
+   get        11
+   set        52      2574
+  size
+remove        60
+remove         3
+   add        -3      1409
+  size
+   get        19
+   get         7
+   add        -9      2343
+   get        49
+  size
+  size
+remove        43
+   set        -9       638
+remove         9
+remove         4
+   get        50
+   get        57
+  size
+   set        50      3312
+   set        -2      1502
+   get        55
+remove        55
+remove        26
+  size
+   set        18      3768
+   get        25
+   get        -2
+   add        35      1716
+   add        32      1842
+   get       -11
+remove         9
+   add        53      4762
+   set        -4      1190
+   get        24
+   set        14      1035
+  size
+   get        25
+remove        31
+   add        56      1837
+   add        52      3435
+  size
+   add        19      2475
+  size
+   set        43      4186
+   add        41       115
+   get         7
+remove        34
+  size
+   add         6        13
+   add        43       617
+   get        53
+  size
+   get        15
+   get        49
+   add         9      3710
+   get        10
+remove        60
+   get        58
+   add        23      2362
+  size
+remove        -7
+   add        37      3566
+remove        51
+remove        49
+   set        29       360
+   add         4       193
+   get        17
+   set        49      1900
+   add        35       577
+   set        -2      3369
+   set        59      1278
+  size
+remove        38
+   add        28      1130
+  size
+  size
+  size
+   add         2      4097
+   set        -9      2884
+   get       -13
+  size
+   set        51      4506
+  size
+remove        25
+  size
+   set        20       549
+remove        47
+   get         1
+   add        61      1119
+   add        16      4005
+   add         9      3723
+   set        40      1790
+   set        -3      2120
+   add        26      2079
+   add        25      3784
+   set         7      3684
+remove        15
+   add        47       270
+   get         5
+  size
+  size
+  size
+  size
+   add        52      3035
+   set        61      1893
+  size
+   set        32       312
+   add        67      1755
+   set        52      4367
+  size
+   add        57      2456
+   add        34      2938
+   get         6
+   add       -11       831
+   get        65
+   set        -4      4976
+   get         6
+remove        -9
+remove        42
+remove        38
+  size
+   get        57
+  size
+remove        32
+   set        -7      2336
+remove        23
+   set        11      2880
+remove        23
+   set        47      2335
+   get        55
+   add         9      3769
+   set        26      3283
+   get        18
+   add        14      2231
+   get        53
+   add        58      1708
+   set        -5      4707
+   add        -7      2421
+   set        -7       998
+   get        22
+   add        43      1189
+   set        52      3270
+   set        34      1988
+   set        58       306
+   set        27       947
+remove        47
+   set        41       317
+   get         4
+   set        40      1428
+  size
+remove       -12
+   add        61      1162
+   get         7
+   get        27
+   set        58      1188
+   add        30       517
+  size
+  size
+   add       -11      1730
+remove         2
+  size
+   set       -11      4907
+  size
+   set        40       718
+  size
+  size
+   set        53      3068
+   add         6      4654
+   get        19
+   set        68       163
+   add         5       572
+remove       -13
+   set        26      2265
+  size
+remove        -8
+   set        70      4562
+  size
+   set        10      4339
+   get        41
+  size
+   set        16      2448
+   get        24
+   add         7      4507
+   set        57      1155
+   add        24      2236
+remove         1
+remove        11
+remove        68
+remove        48
+   get        19
+   set        64      2550
+   add        28      3623
+remove        16
+   get        53
+   set        23       120
+   get        63
+   set        57      3397
+remove         3
+   get        35
+   add        36       728
+  size
+  size
+   set        33      2351
+remove        40
+  size
+   add         2      4891
+   set        31      2591
+  size
+remove        22
+   get        17
+   add        17        56
+   add        62       616
+   add        20       125
+remove        40
+   get        23
+   get        -5
+   get        23
+remove        53
+   set        46      2507
+   add        -7       732
+remove        47
+   get        37
+remove        39
+   add        19      4460
+   add        61      3713
+remove        62
+   set        62      4833
+   get        52
+   get       -13
+  size
+   get       -11
+   get         4
+   set        33      4790
+  size
+remove        13
+   get        47
+remove        23
+   add        -2      2169
+   get        16
+   set        55      3194
+   set        37       212
+   set        19      2754
+  size
+remove         5
+  size
+remove        38
+   get        38
+   get        46
+   get        25
+   get        32
+   get        -2
+remove        51
+   set        43      3906
+  size
+   add         7      3697
+   add        -8      3022
+   add        -2      3901
+  size
+   set        31      4682
+  size
+  size
+   add        15      2885
+  size
+   get        26
+  size
+   add        61      2834
+   set        18      4072
+   add        62      2968
+   get        27
+   add        -6      1779
+   add        37      3214
+  size
+   add        62      2147
+remove        38
+  size
+   set        42      3176
+  size
+  size
+remove        40
+  size
+  size
+   set        59      3596
+   get        37
+   add        -6       696
+   set        39      1558
+   set        16      4390
+   set         7      3737
+remove         7
+remove        44
+   set        -7      3083
+remove        30
+   set        24      4277
+   set         5      1410
+  size
+   get        55
+   add        19       681
+   get        49
+   add        -7       506
+   add        44      2767
+remove        19
+   set        59      4395
+   add        52       762
+remove        17
+  size
+  size
+   add         6      4556
+remove        28
+   set        54      1832
+  size
+   set        14      1805
+   add        24      2382
+  size
+   get        33
+   set        -1       984
+   set        47      3455
+  size
+   set        43      2431
+   add         2       437
+  size
+   set        15      2890
+remove        -6
+   set        13       957
+   add        57      3643
+   get        41
+  size
+remove        60
+remove        60
+  size
+   set        10      1045
+  size
+   add        -2      3060
+remove        46
+remove        35
+remove        31
+  size
+remove        -7
+   set         9      4347
+   add        29      2535
+   set         2      1361
+  size
+   set       -11      4546
+   add        42      3613
+   set        35      2793
+   get        60
+   get        10
+   add        41      1428
+   add        16      1542
+  size
+   set        59        56
+   add         6      3990
+   set        57      1566
+remove        16
+  size
+   add        58      1774
+   set        10      3760
+   add        -8       643
+  size
+remove        16
+   add        26      3103
+  size
+   set       -11      4213
+   get        -5
+   get        53
+   get        43
+   add         4       927
+   add        -6      1508
+  size
+  size
+  size
+   add        17      4829
+   add         6      3681
+   set        35      1489
+   get        15
+  size
+   add        33      4210
+   add        16       587
+   get        46
+   set        24      3914
+   set        37      4262
+   add        30      4355
+   set         7       370
+   add        22      4755
+   get         6
+   get         1
+remove        63
+   add         5        90
+   add        46       955
+   add        18      3883
+   add        53      4887
+   add        26      4286
+   get         0
+   add        68      4216
+   get        28
+   set        49      2687
+   set         0      4090
+  size
+   add        52      2091
+remove        60
+   add         2      2437
+   add        33      2245
+  size
+remove        30
+   set        22       213
+remove         0
+   set        47      4878
+   add        13      4393
+  size
+   get        48
+   get        29
+   set        37      3857
+remove        17
+   set        31      2001
+remove        61
+   get        60
+remove        30
+   add        49      3059
+  size
+   get        32
+   get        -7
+   get        -2
+  size
+  size
+   add        16       700
+remove        57
+   add        48      3720
+   add        55      4644
+   add        21      2952
+   get        22
+   add        60      2783
+   set         8      1106
+   set        45      1568
+   add         6      2123
+   set        39      3499
+   add        -5       954
+   set        54      2887
+   get        15
+  size
+   set         2      1448
+  size
+  size
+   get        -7
+  size
+   add         2      4213
+   add        30       678
+  size
+   set       -11       236
+  size
+   set        59      1606
+   get        52
+   get        84
+  size
+   add        80      1699
+  size
+   get        72
+   add        46      1650
+   get        22
+   add         4      4295
+   set        31      3105
+remove         8
+   get        58
+remove        -5
+   add        62      3931
+  size
+  size
+   add        26       272
+   add        -2      4863
+   set        -4      1998
+  size
+   get        26
+   get        52
+   set       -16      4299
+  size
+   set        24      4457
+   add        81      3901
+   add        41      3250
+   add        55      2192
+remove        78
+   set        56       659
+   get         7
+remove        82
+remove        49
+   get        22
+   set        25      3045
+   get        68
+  size
+   set        70       290
+   get        88
+   add        18      2814
+   set        14       600
+  size
+   add         7      1483
+remove        78
+remove        62
+   add        75      1956
+   set        87       463
+   add        73      3078
+   get        24
+remove        35
+   get        11
+   get        84
+remove        54
+remove        16
+remove        -5
+  size
+remove       -15
+   add         3      2441
+   set        -3      1506
+  size
+   add         5      2095
+   set        78      2871
+   add        63      4828
+  size
+   add        27      4956
+   set        65      2995
+   add        -7      4484
+   get        -8
+  size
+  size
+   add       -14      1419
+  size
+   get       -10
+remove        -6
+   get        84
+  size
+   add        -9      2419
+   add        29      2557
+   add        56      3129
+   set        -9       239
+  size
+   get        31
+remove        21
+   get       -10
+  size
+   set        15      4276
+   get        22
+   get        54
+  size
+   get        77
+   get        49
+   set       -17       395
+   add        69      3134
+   get        40
+   add        83      4507
+   set        -1      1460
+remove        -7
+remove        18
+   set         2      3973
+   get       -17
+  size
+remove        81
+   add         3      4697
+   add         0      3625
+   set        15      2345
+   add        32      3512
+remove        51
+  size
+   set        47      1846
+   add        97      1862
+   set        86      2680
+   set        73      1880
+   get        85
+   get        32
+   get        25
+  size
+   add        38      2349
+remove        17
+   get        65
+  size
+   set         7      3482
+   add        55      4951
+  size
+   get        -2
+   get        29
+  size
+  size
+   get        46
+   set        10        27
+remove         9
+   add        67      3402
+remove        20
+   set        82      1960
+   set        54      3959
+   set         1      4326
+   get        39
+   set        81        80
+remove        -8
+   get        23
+   set        28      4717
+   set        -7      2463
+   set        47      4038
+   get        23
+   get        77
+  size
+   add        -1      1099
+   set        -8      3624
+   add        49      1162
+   get        91
+   add        12      3694
+   get        20
+remove        40
+remove        66
+   get         6
+   set         3      3241
+   get        -9
+remove       -13
+   get        42
+   get        87
+  size
+   set        56       353
+   get        16
+   set        18      4171
+   get        65
+   set        40      2631
+remove        42
+  size
+  size
+   set        57       853
+remove        69
+   add        69      4866
+   add        11      3917
+remove        85
+   get        28
+   add        22       236
+   get        75
+   get        87
+  size
+remove        29
+   add        38       643
+  size
+  size
+  size
+remove        46
+  size
+remove       -19
+remove         2
+  size
+remove        55
+remove        27
+   get         9
+   add        86      3392
+remove       -16
+remove        -7
+   get        27
+   set        -4      3600
+   get        26
+   add        -4       537
+  size
+   add        78      2996
+  size
+   add        93      1374
+   set       -15      2808
+   set        75      2094
+  size
+   get        -2
+remove        70
+   get        32
+  size
+remove         5
+   get         2
+   add        20      2399
+remove         9
+   set        34      2208
+   set        54      4021
+   get        73
+  size
+   set        74      3287
+remove        -8
+   get        38
+remove        70
+   set        35      4524
+   add        23      3352
+   set        45      2328
+remove        84
+   add         2      4942
+   add        87      2958
+   set        92       110
+  size
+  size
+   add       -10      4585
+   add         6      3787
+   set         4      4033
+   get        27
+   set         7      4060
+   set        34      3980
+remove        89
+remove       -15
+  size
+  size
+   set        55       232
+   add        50      1465
+   set        40      4897
+  size
+   get         6
+   set        44       964
+   add        26      4082
+   get        60
+  size
+   get        21
+   set        68      2427
+  size
+  size
+   get        61
+  size
+   add       -14        63
+  size
+remove        82
+   set        -7      1255
+   add        48      1996
+  size
+   get       -19
+   get        47
+  size
+   get        24
+  size
+   add        88      1047
+   get       -18
+remove        -6
+  size
+  size
+   add       -11      4092
+  size
+remove        17
+   set        -5      3577
+remove        60
+remove        83
+   get        63
+   set        59      1837
+remove        94
+   add        70      2198
+   get        30
+   add        82       452
+  size
+  size
+remove        45
+   add        48       256
+   set        22      4792
+   set        46      2021
+remove        62
+remove        88
+remove        69
+   set        20      4189
+remove        15
+   get        62
+remove        43
+   get        -4
+   get        29
+remove       -11
+   add        48      2307
+   set        91       999
+  size
+remove        43
+remove       -18
+   set        20      3907
+   get        37
+   set         3       914
+remove        59
+   add        -5      3580
+   get        86
+  size
+   set        68      2395
+  size
+   set        78      1009
+  size
+remove        12
+  size
+   set        27      3715
+   set       -13      2072
+remove        -9
+remove        -1
+  size
+   get        -3
+   add        40      3549
+   add        11       941
+   set        31      2274
+   set        63       855
+   add        14      3135
+   set        48       438
+remove        91
+   get       -12
+   get        15
+   set        -6      1342
+   set        65        93
+   get         0
+  size
+   add         6      2752
+   get        82
+  size
+  size
+  size
+   add        14      1175
+   set        11      2337
+remove        13
+   add        28      1056
+remove        78
+remove         6
+remove         0
+   add        72      1098
+   set        80      4471
+   add        69      1348
+   get        67
+  size
+   add        45      1465
+   set        -4       388
+remove        58
+remove        10
+  size
+remove        -1
+remove         8
+   set        -7      3651
+remove        81
+   add        92      4309
+   add        75      3329
+remove        43
+   add        -8      3481
+   set        17      3423
+   add        -9      4635
+   get        32
+   add        60      4241
+remove        -3
+  size
+   get        60
+   get         6
+  size
+   set        -4      3073
+   add        57      4970
+   set       -14       116
+   add        75      2996
+   set        81      1564
+   set        85      4356
+   get        23
+   set        53      2184
+   get        40
+   set        92      4852
+   add        81      4745
+   add        -5      2897
+   add        82      3573
+   set       -14      1621
+   get        -7
+   get         4
+   add        68      2644
+remove       -19
+   get       -19
+  size
+  size
+remove        11
+   set        80       428
+   get        32
+   set        86      3672
+   get        -3
+   add        14      3187
+   get        65
+   add         4      2512
+   add        33      1171
+   set        -8      4107
+   get       -19
+   set        73      4450
+   get         4
+   add        55      2017
+  size
+   add        40      4994
+   set        14       393
+remove        47
+remove        53
+   set        91      2837
+  size
+remove        57
+   add        79      2482
+remove         4
+  size
+   set        -3      2324
+   get        24
+remove        36
+   add        46      2427
+remove       -17
+  size
+   add        30       302
+  size
+remove        67
+   set        65      1570
+   set        49      3705
+remove        77
+   get        60
+  size
+remove        92
+   get        85
+   set        -4       346
+  size
+   set        46       685
+   get        49
+  size
+remove        31
+   get        40
+   set        32      2261
+   add        39      3874
+   get        79
+   add        -5      3949
+   set        22      2177
+remove       -19
+remove        45
+   set        79      3868
+  size
+   get        23
+   add        76       735
+   add        71      4903
+   set        16      2312
+  size
+   add        83      1544
+  size
+   set        80      1248
+  size
+   get        56
+   add        47      2581
+   add        91      4194
+   add        88      2796
+remove        56
+  size
+  size
+   get        22
+remove        72
+   set        56      2951
+   get        89
+   add       -13      3497
+   get        14
+  size
+remove        -5
+   add        18       200
+   add         5      3905
+  size
+   get        52
+remove         4
+   add        18      2149
+  size
+   get        16
+remove        20
+remove        49
+remove        56
+remove       -15
+remove       -14
+  size
+   add        -6      1347
+   set        70      1184
+   set         5      1881
+   set        94       686
+   get        61
+  size
+  size
+  size
+  size
+   set        79      4615
+remove        81
+remove        77
+remove        55
+  size
+  size
+remove       -12
+   get        37
+   get        69
+   set       -11      2851
+   add        13      3257
+   set        55       293
+   get         7
+   get        63
+   set        74      4415
+   add        35      1144
+remove       -15
+   get        -8
+  size
+remove        76
+   add        91      3335
+  size
+   get        70
+   get        82
+   set        67      1926
+  size
+   get        56
+   get        46
+   add       -19      2095
+   add        66         6
+  size
+   get        15
+   add        66      3814
+   get         9
+   get        57
+   get        66
+   get        92
+remove        -5
+   add        61      4445
+remove        38
+   add        -2      1624
+   add        53      1330
+   set        86      3448
+   get       -10
+remove         3
+remove        -8
+  size
+   add        45       341
+   get        45
+   set        22      4112
+   get       -19
+  size
+   get        60
+remove        68
+remove        23
+  size
+remove        52
+   get        24
+  size
+   set        71       529
+  size
+remove        -3
+  size
+   set        42      3650
+remove        51
+   get        76
+   set        -9      4690
+   add        -7      3251
+   get         8
+   add        24      1720
+remove        10
+   get        47
+   get        61
+  size
+   get        23
+   get        46
+remove        64
+   add        34      1531
+   get        77
+  size
+   get        88
+   add       -10      4389
+remove         4
+   add        32      1821
+remove        19
+   add        38      4308
+   get         1
+   add        25      2564
+   add        55      4196
+remove        87
+remove        -8
+   get        62
+   get        18
+  size
+  size
+   set        86      3448
+remove        32
+   set        61      4760
+   set        94       113
+remove        52
+   add         6      2674
+   get        95
+remove        86
+   set        47      3615
+  size
+  size
+   get        94
+   get        57
+   get        87
+   get        29
+remove        21
+   set        23      4745
+   get        11
+   get        27
+   set        55      1040
+remove        40
+   set        91      4953
+remove         9
+   get        44
+   set        91      3647
+   add        20      1553
+   set        58      3652
+   get        51
+   set        38      1821
+remove         4
+   add        87      4469
+remove         9
+remove        44
+  size
+   set        27      3651
+  size
+   get        45
+remove        69
+   set        70       821
+  size
+  size
+   get       -15
+   set         8      4023
+  size
+   get        11
+   add        14       752
+   set        12      4091
+remove        46
+   set        12      4526
+  size
+  size
+   set        67      1650
+remove        37
+   set        21      4426
+   get        -3
+   add        70      3341
+   set        72       187
+remove        64
+   set        85      1784
+   add        80      1961
+   add        44      3468
+   add         1       424
+   add        46      3331
+   get        74
+remove        38
+remove        82
+   add        37      2562
+   set        49      3075
+   get        -5
+   set        -6      1233
+  size
+   set        12      4534
+remove         1
+   set         1      1710
+   set        65       945
+   add         8      2909
+   get        77
+   set        19      4974
+  size
+  size
+   get        20
+  size
+   add        -5       252
+  size
+   add        35      2576
+   add        51       215
+   add        16      2263
+remove        92
+   set        -6       304
+   set        13      2463
+  size
+   set        45      1700
+remove       -10
+  size
+   add        32      1931
+   set       -10      4741
+   add        31      4162
+  size
+   add        21      3488
+   add        42       684
+   set        24      4522
+   set         9      3564
+   get        -7
+  size
+   set        53      3245
+   set       -10       112
+   add       -14      1912
+   add        83       531
+remove       -15
+   add        15      2388
+  size
+  size
+   get        -5
+  size
+   get        91
+   get         3
+remove        95
+   set        95      1613
+remove        54
+   get        -7
+   set        36      3138
+   set        92      1981
+   get        14
+   add        11      3561
+remove         7
+  size
+  size
+  size
+remove        28
+   set        -6      3006
+  size
+  size
+   set        18      4241
+   set        42      2688
+   add       -14      3451
+   get        59
+  size
+   set        46      1458
+   set        15       955
+remove        12
+  size
+   get        89
+   set        10      3324
+   get        47
+   add       -15      4894
+   add        34      1401
+remove        47
+   get        55
+   set        28      4397
+   get        36
+   get        67
+   add       -18      3931
+   get       -19
+  size
+  size
+remove        -3
+remove        90
+  size
+   get        31
+   set        10      3781
+  size
+remove        90
+remove        56
+   get        -2
+   add        58      1445
+   set         2      4760
+   get        80
+   get         6
+remove        18
+   add       -11      3098
+remove        89
+   set        18      2119
+   add        59      4185
+   get        49
+   add        67       793
+remove        93
+remove        83
+   get        -1
+   get        40
+   get         8
+   get       -17
+  size
+  size
+remove        12
+   get        -6
+   set        25      2035
+   add        71      3461
+remove        13
+   set        33      3747
+   get        22
+   set        40      3350
+   add        45      1651
+   set        82      3953
+   add        67      1142
+  size
+remove        23
+  size
+   set        -8       972
+  size
+   get        76
+  size
+remove        49
+   get        13
+   add        65      2163
+  size
+   set        78      3387
+remove       -10
+  size
+   add        82      3190
+remove        45
+   add        -3      3094
+  size
+   set        38      1215
+   add        95       355
+remove        -5
+   get        31
+  size
+   set        -4      1838
+   set        66      1310
+   set        62      3413
+   get        45
+   set        22      3714
+   get        93
+   get        58
+   get       -11
+  size
+   get        91
+  size
+   get        91
+   get        14
+remove        35
+   get        25
+   set        66      3060
+  size
+   add        10      4986
+   get       -19
+   set        44       612
+   add        81      3668
+   set        27      4868
+   get        76
+   set        -7      4145
+   add        95      3502
+   add        21      3913
+   get         7
+   get        -4
+  size
+   get         8
+   get        50
+remove        81
+   get        64
+   set        71      4552
+   set        49      1371
+   set        13      3148
+remove        48
+   set        -2      2621
+remove        89
+   get       -10
+   get        30
+  size
+  size
+   set        47       378
+  size
+  size
+  size
+  size
+   add        -4        84
+remove        27
+   add        24      3693
+remove        43
+remove        42
+   add        73      1868
+   get        74
+   get        39
+  size
+   set        10      2877
+   add        26      3982
+remove        84
+   set        83       470
+   get         7
+remove        -5
+  size
+  size
+   add       -14      2994
+   add        29      3443
+  size
+remove        62
+remove        28
+remove        78
+   get         7
+remove        10
+remove       -16
+   add        33      1811
+remove        76
+   get        44
+remove        93
+remove        77
+  size
+   add        32      4267
+   add         1      2166
+   get        91
+   get        72
+remove       -13
+  size
+   add        85      4707
+remove        11
+   get        17
+remove        86
+  size
+  size
+   set        32       125
+   set        75      3683
+remove         7
+   get        37
+  size
+   add        40       278
+remove        88
+remove        26
+   get        32
+  size
+   add        78       325
+   get        80
+   add        27      3396
+   set        63      2687
+   add        29      4070
+   get         5
+   get        84
+   add        21      2113
+   set        -7      4821
+  size
+remove        42
+  size
+remove        -6
+remove        -6
+  size
+  size
+  size
+   set        39      3391
+   set        -6      4331
+   set         1      3089
+remove        75
+remove         4
+   get       -15
+  size
+  size
+  size
+remove        65
+   set        50       592
+remove        70
+remove        39
+   add        49       247
+   get        71
+   get        48
+remove        38
+   set        23       931
+remove        70
+   set        27      1079
+   add       -10      3466
+  size
+   set        17       480
+  size
+   get       -14
+   get        58
+   set        -7       142
+   set         5       161
+   set        45      4584
+   add         8      4623
+   set        15      4211
+   get        87
+   add        34      4811
+  size
+  size
+   set        55      4254
+   add        84      1108
+   add        91      4576
+   set        47      4391
+remove       -17
+   add       -11      3286
+   set       -17      1512
+   set        26      3543
+remove        58
+remove        72
+   set        -5       539
+   add        27      2962
+   get        25
+remove        24
+   get        60
+   set         1        70
+  size
+   get        -9
+remove        13
+   set         0      4426
+remove        31
+   set        43      4731
+remove        83
+remove        72
+remove        -1
+   set        20      4070
+   set        -6      3694
+remove        18
+   set       -17       853
+   add        83      4856
+   get        40
+  size
+remove        39
+   get       -17
+   set        23        42
+   get        73
+  size
+remove        38
+   get        79
+   set        54      2751
+   get        21
+remove        17
+remove         1
+remove        53
+   set        75      1378
+remove         1
+  size
+   get        35
+   add        31      4495
+remove        -5
+   get        11
+   set        49      4059
+   get        77
+  size
+   add        79       379
+  size
+remove        55
+   get        -3
+  size
+  size
+   add         8      4774
+remove        11
+   get        49
+   get        35
+  size
+   get        70
+   add        71      3271
+remove        57
+   set        68      4805
+remove        74
+   set        17      4049
+  size
+   get         7
+   add        22      1254
+   set        41      1750
+   add       -13       925
+   get        71
+   set        54      2820
+   add        73       839
+remove        60
+  size
+remove        22
+remove        14
+   set        35       255
+   add        22       907
+   set        14      2032
+   add        44      2855
+  size
+  size
+  size
+  size
+remove        -6
+  size
+  size
+   set        53      4375
+   set        25      2140
+   set        37       950
+   get        74
+remove        62
+remove         8
+   add        67      1410
+   add        60      3417
+remove        24
+  size
+   set        -9      3126
+remove        75
+   set        35      3251
+  size
+  size
+remove        24
+   add        60      2959
+   set        17      4368
+   set        70      3113
+  size
+remove        73
+remove        44
